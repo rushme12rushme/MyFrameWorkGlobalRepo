@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-10T21:52:51 IST" name="Default suite" finished-at="2024-08-10T21:52:58 IST" duration-ms="7093">
+    <groups>
+    </groups>
+    <test started-at="2024-08-10T21:52:51 IST" name="Default test" finished-at="2024-08-10T21:52:58 IST" duration-ms="7093">
+      <class name="LoginTest.NinzaHRmLoginTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:LoginTest.NinzaHRmLoginTest@78691363]" started-at="2024-08-10T21:52:51 IST" name="openBrowser" finished-at="2024-08-10T21:52:58 IST" duration-ms="6668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="dateMethodTest()[pri:0, instance:LoginTest.NinzaHRmLoginTest@78691363]" started-at="2024-08-10T21:52:58 IST" name="dateMethodTest" finished-at="2024-08-10T21:52:58 IST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dateMethodTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:LoginTest.NinzaHRmLoginTest@78691363]" started-at="2024-08-10T21:52:58 IST" name="closeBrowser" finished-at="2024-08-10T21:52:58 IST" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- LoginTest.NinzaHRmLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
