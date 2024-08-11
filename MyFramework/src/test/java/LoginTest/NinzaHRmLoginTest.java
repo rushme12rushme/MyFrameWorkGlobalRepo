@@ -31,7 +31,8 @@ public void loginTest() throws IOException
 	wait.until(ExpectedConditions.urlToBe(exp));
 			String act=driver.getCurrentUrl();
 	
-	Assert.assertEquals(act, exp);
+//added in feature1 branch
+			Assert.assertEquals(act, exp);
 }
 
 @Test
